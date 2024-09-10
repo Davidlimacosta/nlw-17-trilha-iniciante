@@ -24,7 +24,18 @@ strings (textos): " '' ```
 number: 1, 1.4
 function
 
-## operadores: 
+# operadores: 
 operadores de atribuição de valor 
+operador de contatenação 
+
+## estruturas de dados:
+
+### Arrays:
+uma lista que contem qualquer tipo de dado
+
+### objetos 
+atributos e metodos 
+criação e manipulação de objetos 
+acesso a propriedades de objetos 
 
 
