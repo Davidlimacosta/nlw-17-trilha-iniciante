@@ -38,4 +38,10 @@ atributos e metodos
 criação e manipulação de objetos 
 acesso a propriedades de objetos 
 
+## estrutura de repetção 
+while 
+
+## condicionais 
+suit
+
 
