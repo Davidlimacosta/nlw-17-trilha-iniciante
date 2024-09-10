@@ -15,5 +15,16 @@ Estrutura de dados (functions, object, array)
 Controle de fluxo (if/else)
 Estrutura de repetição (for, while)
 
+## escape e variaveis:
+variaveis globais e locais 
+constantes 
 
-## fases da resolução de um problema 
+## tipos de dados: 
+strings (textos): " '' ```
+number: 1, 1.4
+function
+
+## operadores: 
+operadores de atribuição de valor 
+
+
