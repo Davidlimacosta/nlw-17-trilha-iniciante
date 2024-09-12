@@ -44,4 +44,9 @@ while
 ## condicionais 
 suit
 
-
+## modulos em node.js:
+importação de modulos (require, commomjs)
+biblioteca 'inquirer' para criar prompts interativos 
+ 
+## programação assincrona e promessas
+uso de funçoes assincronas async/await
