@@ -1,52 +1,55 @@
 ## Linguagem de programação 
 
-Maneira de dar instrução ao computador.
-Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.💡
+[x] Maneira de dar instrução ao computador.
+[x] Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.💡
 
-**Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+**Algoritmo**:
+[x] Sequência de passos lógica e finita para resolução de um problema.
 
 ## Peças de uma linguagem 
 
-Comentários 
-Declaração de variáveis (const, let)
-Operadores (atribuição, concatenação, matemáticos, lógicos)
-Tipos de dados (string, number, boolean)
-Estrutura de dados (functions, object, array)
-Controle de fluxo (if/else)
-Estrutura de repetição (for, while)
+[x] Comentários 
+[x] Declaração de variáveis (const, let)
+[x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+[x] Tipos de dados (string, number, boolean)
+[x] Estrutura de dados (functions, object, array)
+[x] Controle de fluxo (if/else)
+[x] Estrutura de repetição (for, while)
 
 ## escape e variaveis:
-variaveis globais e locais 
-constantes 
+[x] variaveis globais e locais 
+[x] constantes 
 
 ## tipos de dados: 
-strings (textos): " '' ```
-number: 1, 1.4
-function
+[x] strings (textos): " '' ```
+[x] number: 1, 1.4
+[x] function
 
 # operadores: 
-operadores de atribuição de valor 
-operador de contatenação 
+[x] operadores de atribuição de valor 
+[x] operador de contatenação 
+[x] operadores de comaparação. == 2 , 1 != 
 
 ## estruturas de dados:
 
 ### Arrays:
-uma lista que contem qualquer tipo de dado
+[x] uma lista que contem qualquer tipo de dado
 
 ### objetos 
-atributos e metodos 
-criação e manipulação de objetos 
-acesso a propriedades de objetos 
+[x] atributos e metodos 
+[x] criação e manipulação de objetos 
+[x] acesso a propriedades de objetos 
 
 ## estrutura de repetção 
-while 
+[x] while 
 
 ## condicionais 
-suit
+[x] suit
+[x] if/else
 
 ## modulos em node.js:
-importação de modulos (require, commomjs)
-biblioteca 'inquirer' para criar prompts interativos 
+[x] importação de modulos (require, commomjs)
+[x] iblioteca 'inquirer' para criar prompts interativos 
  
 ## programação assincrona e promessas
-uso de funçoes assincronas async/await
+[x] uso de funçoes assincronas async/await

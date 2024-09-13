@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "inquirer": "^10.2.2"
+    "inquirer": "^10.2.2",
+    "type": "module"
   }
 }
